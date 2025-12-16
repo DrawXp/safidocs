@@ -52,7 +52,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/safido.webp',
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
